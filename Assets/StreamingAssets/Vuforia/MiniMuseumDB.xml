@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="800px-venus_de_milo_louvre_ma399_n3" size="0.500000 0.833125" />
+    <ImageTarget name="nikosthenic_amphora_louvre_f99" size="0.300000 0.401250" />
+    <ImageTarget name="izmir_archaeology_museum_greek_coins_5818" size="0.150000 0.143906" />
+  </Tracking>
+</QCARConfig>
